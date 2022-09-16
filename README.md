@@ -1,4 +1,4 @@
-Hello there,welcom 👋
+Hello there,welcome 👋
 ================================
 
 Frontend Developer, Customer Service Support and a Community Manager
