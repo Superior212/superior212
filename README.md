@@ -1,4 +1,4 @@
-Hi 👋 My name is Samson Aderonmu
+Hello there,welcom 👋
 ================================
 
 Frontend Developer, Customer Service Support and a Community Manager
