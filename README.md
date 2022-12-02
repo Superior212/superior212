@@ -1,4 +1,5 @@
-Hello there, welcome 👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello there, + welcome +👋)](https://git.io/typing-svg)
 ================================
 
 Frontend Developer, Customer Service Support and a Community Manager
