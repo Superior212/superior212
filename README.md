@@ -5,12 +5,11 @@ I'm Samson Aderonmu. I am passionate about Frontend development, photography, Co
 
 ### ⚡️ A quick introduction
 
-- 🔭 I’m currently working with at [Oracle](https://www.oracle.com) with their [AI Apps](https://www.oracle.com/in/artificial-intelligence/ai-apps/) team.
-- 🌱 I’m currently learning Spring Boot. 
+- 🔭 I’m currently an intern at learnable [Genesys](https://www.genesystechhub.com/) as Frontend Developer. 
+- 🌱 I’m currently learning react. 
 - 💼 I'm open to freelancing projects.
-- 🤟🏻 I'm an astrophysics geek, amatuer singer, and history lover. I also write pieces of poetry, blogs, and play badminton!
-- 😝 Fun-Fact: I suffer from [hylophobia](https://phobia.wikia.org/wiki/Hylophobia).
-
+- 🤟🏻 I'm looking for help with open source projects, hackathons, internships, and entry-level opportunities. 
+- 😝 Job interests: Software Engineer, Frontend Engineer (Intern or Junior level). 
 ---
 
 ### 🤝🏻 Connect, Follow, Subscribe
