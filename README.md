@@ -18,11 +18,10 @@ I'm Samson Aderonmu. I am passionate about Frontend development, photography, Co
 [![Medium](https://img.shields.io/badge/Medium-333333?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@superiorsam)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/samsonaderonmu)
 [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/super__ior/)
- ---
- 
-### 🤝🏻
 
- <img align="right" alt="GIF" src="https://github.com/Superior212/Superior212/blob/main/code.gif?raw=true" width="700" height="320" />
+
+
+ <img align="right" alt="GIF" src="https://github.com/Superior212/Superior212/blob/main/code.gif?raw=true" width="800" height="320" />
  ---
 
 ### 💻 Languages, Frameworks, Tools
