@@ -21,10 +21,6 @@ I'm Samson Aderonmu. I am passionate about Frontend development, photography, Co
 
 ---
  <img align="right" alt="GIF" src="https://github.com/Superior212/Superior212/blob/main/code.gif?raw=true" width="500" height="320" />
-### 🎧 Spotify Playing
-
-[![Spotify](https://novatorem.imperial-lord.vercel.app/api/spotify)](https://open.spotify.com/user/imperial-lord)
-
 ---
 
 ### 💻 Languages, Frameworks, Tools
