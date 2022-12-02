@@ -20,7 +20,6 @@ I'm Samson Aderonmu. I am passionate about Frontend development, photography, Co
 [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/super__ior/)
 
  <img align="right" alt="GIF" src="https://github.com/Superior212/Superior212/blob/main/code.gif?raw=true" width="500" height="320" />
----
 
 ### 💻 Languages, Frameworks, Tools
 
