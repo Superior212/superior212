@@ -20,7 +20,7 @@ I'm Samson Aderonmu. I am passionate about Frontend development, photography, Co
 [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/super__ior/)
 
 ---
- <img align="right" alt="GIF" src="https://github.com/Superior212/Superior212/blob/master/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/Superior212/Superior212/main/code.gif?raw=true" width="500" height="320" />
 ### 🎧 Spotify Playing
 
 [![Spotify](https://novatorem.imperial-lord.vercel.app/api/spotify)](https://open.spotify.com/user/imperial-lord)
