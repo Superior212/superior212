@@ -1,9 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!+It's+been+a+while+%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!+Welcome+%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
 
-I'm AB Satyaprakash. I work as a software engineer during the day. At night, I switch into my creator mode - spreading knowledge about software development and engineering!
-
-<a href="https://www.buymeacoffee.com/absatyaprakash" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-
+I'm Samson Aderonmu. I am passionate about Frontend development, photography, Community management, and others. I build useful projects, enjoy working in teams, and collaborate with other tech enthusiasts in building and creating meaningful projects.
 ---
 
 ### ⚡️ A quick introduction
