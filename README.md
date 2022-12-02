@@ -44,25 +44,11 @@ I'm Samson Aderonmu. I am passionate about Frontend development, photography, Co
 
 ---
 
-### 📽 YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [Deploy an ML Model with Fast API and AWS | Part 02](https://www.youtube.com/watch?v=o9TOERzCneI)
-- [Deploy an ML Model with Fast API and AWS | Part 01](https://www.youtube.com/watch?v=q2xyXjUBpbI)
-- [9 Best practices for designing REST APIs like a Pro &lpar;in 1 hr&rpar; | Node.js &amp; Express | Beginners&#39; guide](https://www.youtube.com/watch?v=q38AJWgcrqc)
-- [AWS vs Digital Ocean | Which one should you choose for your next project?](https://www.youtube.com/watch?v=IoxGqAI-_UI)
-- [Video calls and meetings with Flutter and Jitsi Meet | LinkedIn Clone](https://www.youtube.com/watch?v=99NpHtt5PVg)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://www.youtube.com/c/ABSatyaprakash)
-
----
-
 ### ✍🏻 Medium Blogs
 
-[![AB Satyaprakash Medium](https://github-readme-medium.vercel.app/?username=absatyaprakash&limit=3)](https://medium.com/@absatyaprakash)
+[![Samson Aderonmu Medium](https://github-readme-medium.vercel.app/?username=superiorsam&limit=2)](https://medium.com/@superiorsam)
 
-[➡️ more blogs...](https://absatyaprakash01.medium.com/)
+[➡️ more blogs...](https://superiorsam.medium.com/)
 
 ---
 
