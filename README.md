@@ -48,7 +48,7 @@ I'm Samson Aderonmu. I am passionate about Frontend development, photography, Co
 
 [![Samson Aderonmu Medium](https://github-readme-medium.vercel.app/?username=superiorsam&limit=2)](https://medium.com/@superiorsam)
 
-[➡️ more blogs...](https://superiorsam.medium.com/)
+[➡️ more blogs...](https://medium.com/@superiorsam)
 
 ---
 
