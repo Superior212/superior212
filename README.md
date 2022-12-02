@@ -20,7 +20,7 @@ I'm Samson Aderonmu. I am passionate about Frontend development, photography, Co
 [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/super__ior/)
 
 ---
-
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 ### 🎧 Spotify Playing
 
 [![Spotify](https://novatorem.imperial-lord.vercel.app/api/spotify)](https://open.spotify.com/user/imperial-lord)
@@ -40,6 +40,7 @@ I'm Samson Aderonmu. I am passionate about Frontend development, photography, Co
 <img style="padding:5px;" align="center" alt="VS Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
 <img style="padding:5px;" align="center" alt="Ubuntu" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png">
  <img style="padding:5px;" align="center" alt="tailwindcss" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png">
+ <img tyle="padding:5px;" align="center" alt="Ubuntu" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
 </p>
 
 ---
