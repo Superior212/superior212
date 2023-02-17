@@ -9,7 +9,7 @@ I'm Samson Aderonmu. I am passionate about Frontend development, photography, Co
 - 🌱 I’m currently learning react. 
 - 💼 I'm open to freelancing projects.
 - 🤟🏻 I'm looking for help with open source projects, hackathons, internships, and entry-level opportunities. 
-- 🗣️ Job interests: Software Engineer, Frontend Engineer (Intern or Junior level). 
+- 🗣️ Job interests: Software Engineer, Frontend Engineer. 
 ---
 
 ### 🤝🏻 Connect, Follow, Subscribe
