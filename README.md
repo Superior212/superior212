@@ -5,10 +5,8 @@ I'm Samson Aderonmu. I am passionate about Frontend development, photography, Co
 
 ### ⚡️ A quick introduction
 
-- 🔭 I’m currently an intern at learnable [Genesys](https://www.genesystechhub.com/) as Frontend Developer. 
-- 🌱 I’m currently learning react. 
+- 🌱 I’m open to full time roles. 
 - 💼 I'm open to freelancing projects.
-- 🤟🏻 I'm looking for help with open source projects, hackathons, internships, and entry-level opportunities. 
 - 🗣️ Job interests: Software Engineer, Frontend Engineer. 
 ---
 
