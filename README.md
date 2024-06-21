@@ -1,11 +1,16 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!+Welcome+%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
 
-I'm Samson Aderonmu. I am passionate about Frontend development, photography, Community management, and others. I build useful projects, enjoy working in teams, and collaborate with other tech enthusiasts in building and creating meaningful projects.
+Hi, I'm Samson Aderonmu, a multifaceted tech enthusiast with a passion for:
+- Frontend development
+- Photography
+- Community management
+  
+I love building useful projects, collaborating with others, and working in teams to create meaningful and impactful projects. Let's connect and build something amazing together!
 ---
 
 ### ⚡️ A quick introduction
 
-- 🌱 I’m open to full time roles. 
+- 🌱 I’m open to full-time roles. 
 - 💼 I'm open to freelancing projects.
 - 🗣️ Job interests: Software Engineer, Frontend Engineer. 
 ---
