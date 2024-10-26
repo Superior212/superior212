@@ -40,7 +40,7 @@ Hi, My name is Samson Aderonmu, I am a Smart Contract Developer
 
 ### 💻 Languages, Frameworks, Tools
 
-<p float="left">
+
 ![](https://img.shields.io/badge/Solidity-informational?style=flat&logo=solidity&logoColor=ffffff&color=238636&labelColor=181717)
 ![](https://img.shields.io/badge/Hardhat-informational?style=flat&logo=hardhat&logoColor=ffffff&color=238636&labelColor=F05032)
 ![](https://img.shields.io/badge/Foundry-informational?style=flat&logo=foundry&logoColor=000000&color=238636&labelColor=F7DF1E)
@@ -61,6 +61,9 @@ Hi, My name is Samson Aderonmu, I am a Smart Contract Developer
 ![](https://img.shields.io/badge/TailwindCSS-informational?style=flat&logo=tailwindcss&logoColor=06B6D4&color=238636&labelColor=FFFFFF)
 ![](https://img.shields.io/badge/SCSS-informational?style=flat&logo=sass&logoColor=C76494&color=238636&labelColor=FFFFFF)
 ![](https://img.shields.io/badge/GIT-informational?style=flat&logo=git&logoColor=ffffff&color=238636&labelColor=F05032)
+
+
+<p float="left">
  <img style="padding:5px;" align="center" alt="tailwindcss" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png">
 </p>
 
