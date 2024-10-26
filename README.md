@@ -10,9 +10,24 @@ I love building useful projects, collaborating with others, and working in teams
 
 ### ⚡️ A quick introduction
 
-- 🌱 I’m open to full-time roles. 
-- 💼 I'm open to freelancing projects.
-- 🗣️ Job interests: Software Engineer, Frontend Engineer. 
+-🔭 I’m currently working on amazing things like:
+    Crafting interactive UIs with React.js
+    Building Web3 dApps for a decentralized future
+    Developing and deploying smart contracts on the EVM
+    
+- 🌱 Always Learning: Exploring new and exciting technologies
+
+- 💼 Let’s Collaborate: Open to joining forces on creative ideas, so feel free to reach out!
+
+- 📫 Contact Me: Reach me on X (Twitter) [@samsonaderonmu]
+
+- 🗣️ Ask Me Anything: I’m happy to chat about all things software development! 😇
+
+- 😄 Pronouns: Superior Tech Bro
+
+- ⚡ Fun Fact: I’m drawn to beautiful places and aesthetics!
+
+
 ---
 
 ### 🤝🏻 Connect, Follow, Subscribe
