@@ -41,17 +41,27 @@ Hi, My name is Samson Aderonmu, I am a Smart Contract Developer
 ### 💻 Languages, Frameworks, Tools
 
 <p float="left">
-<img style="padding:5px;" align="center" alt="ReactJs" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
-<img style="padding:5px;" align="center" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-<img style="padding:5px;" align="center" alt="HTML" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-<img style="padding:5px;" align="center" alt="CSS" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-<img style="padding:5px;" align="center" alt="BootStrap" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
-<img style="padding:5px;" align="center" alt="Firebase" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
-<img style="padding:5px;" align="center" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
-<img style="padding:5px;" align="center" alt="VS Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
-<img style="padding:5px;" align="center" alt="Ubuntu" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png">
+![](https://img.shields.io/badge/Solidity-informational?style=flat&logo=solidity&logoColor=ffffff&color=238636&labelColor=181717)
+![](https://img.shields.io/badge/Hardhat-informational?style=flat&logo=hardhat&logoColor=ffffff&color=238636&labelColor=F05032)
+![](https://img.shields.io/badge/Foundry-informational?style=flat&logo=foundry&logoColor=000000&color=238636&labelColor=F7DF1E)
+![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=000000&color=238636&labelColor=F7DF1E)
+![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&logoColor=2F74C0&color=238636&labelColor=ffffff)
+![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=238636&labelColor=61DAFB)
+![](https://img.shields.io/badge/Redux-informational?style=flat&logo=Redux&logoColor=white&color=238636&labelColor=764ABC)
+![](https://img.shields.io/badge/NodeJS-informational?style=flat&logo=node.js&logoColor=339933&color=238636&labelColor=ffffff)
+![](https://img.shields.io/badge/Express-informational?style=flat&logo=express&logoColor=339933&color=238636&labelColor=ffffff)
+![](https://img.shields.io/badge/PHP-informational?style=flat&logo=php&logoColor=ffffff&color=238636&labelColor=181717)
+![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=mongodb&logoColor=47A248&color=238636&labelColor=000)
+![](https://img.shields.io/badge/Laravel-informational?style=flat&logo=laravel&logoColor=ffffff&color=238636&labelColor=F05032)
+![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&logoColor=ffffff&color=238636&labelColor=4479A1)
+![](https://img.shields.io/badge/Postman-informational?style=flat&logo=postman&logoColor=FF6C37&color=238636&labelColor=ffffff)
+![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=html5&logoColor=ffffff&color=238636&labelColor=F05032)
+![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=css3&logoColor=000000&color=238636&labelColor=F7DF1E)
+![](https://img.shields.io/badge/Bootstrap-informational?style=flat&logo=bootstrap&logoColor=ffffff&color=238636&labelColor=7952B3)
+![](https://img.shields.io/badge/TailwindCSS-informational?style=flat&logo=tailwindcss&logoColor=06B6D4&color=238636&labelColor=FFFFFF)
+![](https://img.shields.io/badge/SCSS-informational?style=flat&logo=sass&logoColor=C76494&color=238636&labelColor=FFFFFF)
+![](https://img.shields.io/badge/GIT-informational?style=flat&logo=git&logoColor=ffffff&color=238636&labelColor=F05032)
  <img style="padding:5px;" align="center" alt="tailwindcss" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png">
- <img tyle="padding:5px;" align="center" alt="Ubuntu" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
 </p>
 
 ---
