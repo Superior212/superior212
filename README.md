@@ -1,11 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!+Welcome+%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
 
-Hi, I'm Samson Aderonmu, a multifaceted tech enthusiast with a passion for:
-- Frontend development
-- Photography
-- Community management
-  
-I love building useful projects, collaborating with others, and working in teams to create meaningful and impactful projects. Let's connect and build something amazing together!
+Hi, My name is Samson Aderonmu, I am a Smart Contract Developer
+
 ---
 
 ### ⚡️ A quick introduction
